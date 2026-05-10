@@ -14,6 +14,11 @@
  易失效且有顶级模型（LiveBench前十名）的渠道放在最前面，无顶级模型的发现时间排名，如有失效，欢迎pr与issue反馈！
  > Channels that are highly volatile but feature top-tier models (LiveBench Top 10) are listed first. Others are ranked by discovery time. If any links are broken, PRs and issues are welcome!
 
+## 📌 PR说明  About PR
+ 欢迎PR，允许AFF，如果您首次发现且PR的平台，将一直保留您的AFF，感谢您的贡献
+
+ >We welcome your PRs! We allow affiliate links—if you're the first to find and submit a platform, we'll keep your AFF link active for good. Appreciate your help!
+
 ## 📌 平台列表 List
 
 ### freemodel.dev
@@ -23,6 +28,14 @@
 高级模型：GPT5.5 GPT5.4 
 
 免费额度: 注册送四周会员，每周 $71.67 GPT 额度 + 5刀余额
+
+### 可萌中转站
+
+链接： [可萌中转站](https://api456.me/register?aff=H0IO)
+
+高级模型： GPT5.4 Claude4.6 Opus
+
+免费额度：注册送约50次Claude opus 4.6 调用次数 
 
 ### pollinations.ai
 
