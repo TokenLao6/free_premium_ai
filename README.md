@@ -70,13 +70,13 @@
 
 免费额度：1M Token /day
 
-### 魔搭 (ModelScope)
+### 魔搭/ModelScope
 
-链接： [`https://modelscope.cn`](https://modelscope.cn)
+链接： [魔搭中国](https://modelscope.cn) [魔搭国际](https://modelscope.ai)
 
 高级模型：GLM-5.1 GLM-5
 
-免费额度： 手机号登陆，每天 200 次调用，需要实名认证
+免费额度： 手机号登陆，每天 200 次调用，需要实名认证 ，国际版可以邮箱登录，但需要绑定国际版阿里云账号
 
 ### Gemini 商业版
 
