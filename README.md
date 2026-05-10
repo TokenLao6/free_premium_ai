@@ -21,6 +21,13 @@
 
 ## 📌 平台列表 List
 
+### code-relay
+
+链接： [code-relay](https://api.code-relay.com/register?aff=q4AU)
+
+高级模型: claude-opus-4-7 
+
+免费额度：注册送20刀，限制CODEX/CLAUDECODE 平台调用
 ### POIXE
 
 链接： [poixe](https://poixe.com/i/ocyymy)
