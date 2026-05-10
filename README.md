@@ -4,13 +4,19 @@
 
 > A list of highly capable AI models you can use for free. We’ve tried to select the most stable platforms, but keep in mind the "impossible triangle": you can’t always have free, stable, and high performance all at once.If any platforms or activities are outdated, PRs and issues are welcome！
 
-## 📌 收录标准
+## 📌 收录标准  Inclusion Criteria
 
  可免费使用 [LiveBench](https://livebench.ai/) 中任一 Global Average 高于 **65分** 的模型，平台每间隔一段时间有免费额度，或注册给予较大免费额度,模型不掺水（受系统提示词和一些功能被限制的不视为掺水），逆向不收录。 模型能力通过提示词检测与 [hvoy检测器](https://hvoy.ai/) 检测
 
-## 📌 平台列表
+ Models must be free to use and have a Global Average score higher than **65** on [LiveBench](https://livebench.ai/). Platforms should provide periodic free quotas or offer substantial free credits upon registration. Models must not be "watered down" (limitations imposed by system prompts or restricted features are not considered dilution). Reverse-engineered (API) models are not included. Model capabilities are verified through prompt testing and the [hvoy detector](https://hvoy.ai/).
 
-#### freemodel.dev
+## 📌 排序说明  Sorting Criteria
+ 易失效且有顶级模型（LiveBench前十名）的渠道放在最前面，无顶级模型的发现时间排名，如有失效，欢迎pr与issue反馈！
+  Channels that are highly volatile but feature top-tier models (LiveBench Top 10) are listed first. Others are ranked by discovery time. If any links are broken, PRs and issues are welcome!
+
+## 📌 平台列表 List
+
+### freemodel.dev
 
 链接：[freemodel.dev](https://freemodel.dev/invite/FRE-010fbf71)
 
@@ -18,9 +24,7 @@
 
 免费额度: 注册送四周会员，每周 $71.67 GPT 额度 + 5刀余额
 
-
-
-#### pollinations.ai
+### pollinations.ai
 
 链接：[pollinations.ai](https://enter.pollinations.ai/)
 
@@ -32,7 +36,7 @@
 
 链接:  [AgentRouter](https://agentrouter.org/register?aff=z4u0)
 
-高级模型：glm-4
+高级模型：glm-5
 
 免费额度：Linuxdo账号或注册时长满1年的Github账号登录即领200美元余额，每日签到25美元
 
@@ -52,6 +56,22 @@
 高级模型：GLM-5
 
 免费额度：1M Token /day
+
+### 魔搭 (ModelScope)
+
+链接： [`https://modelscope.cn`](https://modelscope.cn)
+
+高级模型：GLM-5.1 GLM-5
+
+免费额度： 手机号登陆，每天 200 次调用，需要实名认证
+
+### Gemini 商业版
+
+链接：[商业版 Gemini](https://business.gemini.google/)
+
+高级模型：Gemini 3 Pro，Gemini 3.1 Pro
+
+免费额度：邮箱注册即可免费使用30天，但模型存在降智问题
 
 ### Github Models
 
@@ -73,23 +93,6 @@
 
 目前所有GPT用户都可以免费使用Codex的GPT-5.2模型
 
-### 魔搭 (ModelScope)
-
-链接： [`https://modelscope.cn`](https://modelscope.cn)
-
-高级模型：GLM-5.1 GLM-5
-
-免费额度： 手机号登陆，每天 200 次调用，需要实名认证
-
-### Gemini 商业版
-
-链接：[商业版 Gemini](https://business.gemini.google/)
-
-高级模型：Gemini 3 Pro，Gemini 3.1 Pro
-
-免费额度：邮箱注册即可免费使用30天
-
-
 ### 英伟达Build
 
 链接： [`https://build.nvidia.com/`](https://build.nvidia.com/%E2%80%8B)
@@ -97,3 +100,11 @@
 高级模型 : GLM-5，Kimi K2.5
 
 免费额度： 80rpm，需要绑定手机号
+
+### api520pro
+
+链接： (https://api520.pro/register?aff=I0D3)
+
+高级模型：GPT5.4 Gemini3.1Pro
+
+免费额度: 注册送100平台余额，可调用十次GPT5.4 注册需要QQ邮箱
