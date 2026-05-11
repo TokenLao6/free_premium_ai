@@ -38,6 +38,30 @@
 
 ## 📌 平台列表 List
 
+ ### 平台名
+
+ 链接： [平台名](注册链接URL)
+
+ 高级模型: 满足收录标准的模型
+
+免费额度与注册说明： 说明免费额度以及注册的限制(如果有)
+
+### Token能量站
+
+链接： [Token能量站](https://factory.pub/register?aff=99iP)
+
+高级模型: GPT5.5
+
+免费额度与注册说明： 注册送2.5刀 每日签到随机0.1刀以上 注册限制邮箱
+
+### unity2.ai
+
+链接： [unity2.ai](https://unity2.ai/register?ref=GYagOZRL)
+
+高级模型: GPT5.5
+
+免费额度与注册说明： 注册送7刀 注册限制邮箱 @qq.com、@gmail.com、@163.com、@foxmail.com、@edu.cn
+
 ### code-relay
 
 链接： [code-relay](https://api.code-relay.com/register?aff=q4AU)
