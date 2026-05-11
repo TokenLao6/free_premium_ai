@@ -125,7 +125,7 @@
 
 链接： [`英伟达`](https://build.nvidia.com/%E2%80%8B)
 
-高级模型 : GLM-5.1 DeepseekV3Pro
+高级模型 : GLM-5.1 DeepseekV4Pro
 
 免费额度： 80rpm，需要绑定手机号
 
@@ -139,8 +139,14 @@
 
 ### Sophnet (来自 https://github.com/Auunes 投稿)
 
-链接： [sophnet][https://www.sophnet.com/?code=TFWAWE]
+链接： [sophnet](https://www.sophnet.com/?code=TFWAWE)
 
-高级模型： GLM5.1 DeepseekV3Pro
+高级模型： GLM5.1 DeepseekV4Pro
 
 免费额度： 注册送100元信用额度，每日签到送 0.1M Token 注册需要手机号，注册后进入SpohClaw，左下角用户中心可以签到，与Claw对话要求输出当前Model配置文件得到APIKEY与URL，可在外网使用 (注册开通龙虾送20元，其中10元用于龙虾扣费，另外10元可用于API 存疑)
+
+### zaiwen (来自 https://github.com/Auunes 投稿)
+
+链接： [zaiwen](https://chat.zaiwenai.com/?channel-code=695a2177ff8fe129b80fdee1)
+高级模型： GLM5.1 DeepseekV4Pro
+免费额度： 注册送99999点积分，仅限网页聊天
