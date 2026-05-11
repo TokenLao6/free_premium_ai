@@ -68,7 +68,8 @@
 
 高级模型: claude-opus-4-7 
 
-免费额度与注册说明：注册送20刀，限制CODEX/CLAUDECODE 平台调用
+免费额度与注册说明：注册送20刀，微信登录，限制CODEX/CLAUDECODE 平台调用
+
 ### POIXE
 
 链接： [poixe](https://poixe.com/i/ocyymy)
