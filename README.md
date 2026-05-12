@@ -25,18 +25,26 @@
 ## 📌 PR/投稿说明  About PR
  欢迎PR与投稿，投稿可以投稿Issue与PR ，**允许AFF**，如果您首先发现且投稿平台，将一直保留您的AFF，感谢您的贡献，投稿时请按照下面的格式并附上测试结果截图：
  ```
-  ### 平台名
+### 平台名
 
-  链接： [平台名](注册链接URL)
+链接： [平台名](注册链接URL)
 
-  高级模型: 满足收录标准的模型
+高级模型: 满足收录标准的模型
 
-  免费额度与注册说明： 说明免费额度以及注册的限制(如果有)
+免费额度与注册说明： 说明免费额度以及注册的限制(如果有)
  ```
   
  >We welcome your PRs! We allow affiliate links—if you're the first to find and submit a platform, we'll keep your AFF link active for good. Appreciate your help!
 
 ## 📌 平台列表 List
+
+### gettoken
+
+链接： [trail.gettoken.dev](https://trail.gettoken.dev))
+
+高级模型: GPT5.5 GPT5.4
+
+免费额度与注册说明： 注册送10刀，Google/Apple/微信/手机号注册
 
 ### cpass
 
