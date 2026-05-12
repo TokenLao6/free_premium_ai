@@ -39,13 +39,13 @@
 
 ## 📌 平台列表 List
 
-### gettoken
+### freemodel.dev
 
-链接： [trail.gettoken.dev](https://trail.gettoken.dev)
+链接：[freemodel.dev](https://freemodel.dev/invite/FRE-010fbf71)
 
-高级模型: GPT5.5 GPT5.4
+高级模型：GPT5.5 GPT5.4 
 
-免费额度与注册说明： 注册送10刀，Google/Apple/微信/手机号注册 [官方调用指南](https://gettoken.dev/zh-CN/docs/base-url)
+免费额度与注册说明: 注册送四周会员，每周 $71.67 GPT 额度 + 5刀余额 ，限制CODEX/CLAUDECODE 平台调用
 
 ### cpass
 
@@ -55,29 +55,13 @@
 
 免费额度与注册说明： 注册送7刀余额，加群送10刀，邮箱即可注册
 
-### XAIO
+### gettoken
 
-链接： [XAIO](https://dashboard.x-aio.com/zh/register?ref=7442bebbe10548dfb729)
+链接： [trail.gettoken.dev](https://trail.gettoken.dev)
 
-高级模型: GPT5.5 Claude opus 4.7 GLM5 DeepseekV4Pro
+高级模型: GPT5.5 GPT5.4
 
-免费额度与注册说明： 注册送6元余额，注册需要手机号，可接码
-
-### Token能量站
-
-链接： [Token能量站](https://factory.pub/register?aff=99iP)
-
-高级模型: GPT5.5
-
-免费额度与注册说明： 注册送2.5刀 每日签到随机0.1刀以上 注册限制邮箱
-
-### unity2.ai
-
-链接： [unity2.ai](https://unity2.ai/register?ref=GYagOZRL)
-
-高级模型: GPT5.5
-
-免费额度与注册说明： 注册送7刀 注册限制邮箱 @qq.com、@gmail.com、@163.com、@foxmail.com、@edu.cn
+免费额度与注册说明： 注册送10刀，Google/Apple/微信/手机号注册 [官方调用指南](https://gettoken.dev/zh-CN/docs/base-url)
 
 ### code-relay
 
@@ -87,21 +71,13 @@
 
 免费额度与注册说明：注册送20刀，微信登录，限制CODEX/CLAUDECODE 平台调用
 
-### POIXE
+### Token能量站
 
-链接： [poixe](https://poixe.com/i/ocyymy)
+链接： [Token能量站](https://factory.pub/register?aff=99iP)
 
-高级模型：gemini 3.1 pro  claude-4-6-sonnet
+高级模型: GPT5.5
 
-免费额度与注册说明： 具体请查看 [免费额度与注册说明](https://poixe.com/products/free) 规则较复杂
-
-### freemodel.dev
-
-链接：[freemodel.dev](https://freemodel.dev/invite/FRE-010fbf71)
-
-高级模型：GPT5.5 GPT5.4 
-
-免费额度与注册说明: 注册送四周会员，每周 $71.67 GPT 额度 + 5刀余额 ，限制CODEX/CLAUDECODE 平台调用
+免费额度与注册说明： 注册送2.5刀 每日签到随机0.1刀以上 注册限制邮箱
 
 ### 可萌中转站
 
@@ -110,6 +86,30 @@
 高级模型： GPT5.4 Claude4.6 Opus
 
 免费额度与注册说明：注册送约50次Claude opus 4.6 调用次数 
+
+### unity2.ai
+
+链接： [unity2.ai](https://unity2.ai/register?ref=GYagOZRL)
+
+高级模型: GPT5.5
+
+免费额度与注册说明： 注册送7刀 注册限制邮箱 @qq.com、@gmail.com、@163.com、@foxmail.com、@edu.cn
+
+### XAIO
+
+链接： [XAIO](https://dashboard.x-aio.com/zh/register?ref=7442bebbe10548dfb729)
+
+高级模型: GPT5.5 Claude opus 4.7 GLM5 DeepseekV4Pro
+
+免费额度与注册说明： 注册送6元余额，注册需要手机号，可接码
+
+### POIXE
+
+链接： [poixe](https://poixe.com/i/ocyymy)
+
+高级模型：gemini 3.1 pro  claude-4-6-sonnet （逆向渠道）
+
+免费额度与注册说明： 具体请查看 [免费额度与注册说明](https://poixe.com/products/free) 规则较复杂
 
 ### pollinations.ai
 
@@ -131,7 +131,7 @@
 
 链接:  [Anyrouter](https://anyrouter.top/register?aff=Ae0q)
 
-高级模型：claude-opus-4-7 ，GPT 5.5
+高级模型：claude-opus-4-7 ，GPT 5.5 使用人数较多，资源较为紧张
 
 免费额度与注册说明：Linuxdo账号或EDU.CN邮箱账号登录即领100美元余额，每日签到25美元 限制CODEX/CLAUDECODE 平台调用
 
