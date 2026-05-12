@@ -40,7 +40,7 @@
 
 ### gettoken
 
-链接： [trail.gettoken.dev](https://trail.gettoken.dev))
+链接： [trail.gettoken.dev](https://trail.gettoken.dev)
 
 高级模型: GPT5.5 GPT5.4
 
