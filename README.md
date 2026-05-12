@@ -44,7 +44,7 @@
 
 高级模型: GPT5.5 GPT5.4
 
-免费额度与注册说明： 注册送10刀，Google/Apple/微信/手机号注册
+免费额度与注册说明： 注册送10刀，Google/Apple/微信/手机号注册 [官方调用指南](https://gettoken.dev/zh-CN/docs/base-url)
 
 ### cpass
 
