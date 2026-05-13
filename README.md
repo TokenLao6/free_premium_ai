@@ -47,6 +47,14 @@
 
 免费额度与注册说明: 注册送四周会员，每周 $71.67 GPT 额度 + 5刀余额 ，限制CODEX/CLAUDECODE 平台调用
 
+### tokaify.com
+
+链接：[tokaifyl.com]([https://freemodel.dev/invite/FRE-010fbf71](https://www.tokaify.com/?utm_source=GitHub&campaignid=8c51ce8343a04499b0d1b93c1c3474d8&utm_term=github))
+
+高级模型：GPT-5系、GPT-5.1系、Claude全系、Gemini、Qwen、豆包（共支持70+模型）
+
+免费额度与注册说明: 注册后可小额购买测试，支持按量计费；提供透明调用日志，承诺模型真实不降级；企业用户可开票与SLA保障
+
 ### cpass
 
 链接： [cpass](https://api.cpass.cc/register?aff=dsYU)
